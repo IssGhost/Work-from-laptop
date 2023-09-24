@@ -1,0 +1,252 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[CAMPER,Liam,1]
+LoseText = A very good battle, indeed!
+Pokemon = ROGGENROLA,10
+Pokemon = SHUCKLE,11
+#-------------------------------
+[CAMPER,Liam,2]
+LoseText = A very good battle, indeed!
+Pokemon = ONIX,10
+Pokemon = SUDOWOODO,11
+#-------------------------------
+[BLACKBELT,Black Belt,1]
+LoseText = A very good battle, indeed!
+Pokemon = GEODUDE,10
+Pokemon = EEVEE,11
+#-------------------------------
+[GENTLEMAN,Gentleman,1]
+LoseText = A very good battle, indeed!
+Pokemon = ROGGENROLA,10
+Pokemon = SHUCKLE,11
+#-------------------------------
+[GENTLEMANRSE,Rick,1]
+LoseText = A very good battle, indeed!
+Pokemon = MEOWTH,10
+Pokemon = MAGCARGO,11
+#-------------------------------
+[HIKERRSE,Tom,1]
+LoseText = A very good battle, indeed!
+Pokemon = MACHOP,10
+Pokemon = NOSEPASS,11
+#-------------------------------
+[HIKERRSE,Darrel,2]
+LoseText = A very good battle, indeed!
+Pokemon = BONSLY,10
+Pokemon = MINIOR,11
+#-------------------------------
+[HIKERRSE,Mike,3]
+LoseText = A very good battle, indeed!
+Pokemon = ROLYCOLY,10
+Pokemon = GLIMMET,11
+#-------------------------------
+[LEADER_Brock,Brock]
+Items = FULLRESTORE
+LoseText = Very good.
+Pokemon = LARVITAR,14
+    Moves = SANDSTORM,HEADSMASH,DIG,ROCKTHROW
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    Gender = male
+    IV = 20,20,20,20,20,20
+    Ball = HEAVYBALL
+Pokemon = ROGGENROLA,14
+    Moves = HEADSMASH,ROCKTHROW,RAGE,ROCKTOMB
+    AbilityIndex = 0
+    Gender = male
+    IV = 20,20,20,20,20,20
+    Ball = HEAVYBALL
+Pokemon = AERODACTYL,16
+    Moves = HEADSMASH,ROCKTHROW,RAGE,ROCKTOMB
+    AbilityIndex = 0
+    Item = ROCKYHELMET
+    Gender = male
+    IV = 20,20,20,20,20,20
+    Ball = HEAVYBALL
+#-------------------------------
+[TEAMMAGMA_F,Grunt,1]
+LoseText = You're too good for me!
+Pokemon = SLUGMA,5
+#-------------------------------
+[TEAMMAGMA_M,Grunt,2]
+LoseText = You're too good for me!
+Pokemon = ARON,5
+Pokemon = POOCHYENA,5
+#-------------------------------
+[TEAMMAGMA_F,Grunt,3]
+LoseText = You're too good for me!
+Pokemon = NUMEL,5
+#-------------------------------
+[TEAMMAGMA_M,Grunt,4]
+LoseText = You're too good for me!
+Pokemon = HOUNDOOM,5
+#-------------------------------
+[TEAMMAGMAADMIN_M,Admin,5]
+LoseText = You're too good for me!
+Pokemon = SOLROCK,5
+#-------------------------------
+[TEAMMAGMA_F,Grunt,6]
+LoseText = You're too good for me!
+Pokemon = TURTWIG,5
+#-------------------------------
+[TEAMMAGMA_F,Grunt,7]
+LoseText = You're too good for me!
+Pokemon = TURTWIG,5
+#-------------------------------
+[TEAMMAGMA_F,Grunt,8]
+LoseText = You're too good for me!
+Pokemon = TURTWIG,5
+#-------------------------------
+[TEAMAQUA_M,Grunt,1]
+LoseText = You're too good for me!
+Pokemon = TURTWIG,5
+#-------------------------------
+[TEAMROCKET_M,Grunt,1]
+LoseText = You're too good for me!
+Pokemon = TURTWIG,5
+#-------------------------------
+[TEAMROCKET_F,Grunt,1]
+LoseText = You're too good for me!
+Pokemon = PIPLUP,5
+#-------------------------------
+[YOUNGSTER,Ben]
+LoseText = Aww, I lost.
+Pokemon = RATTATA,11
+Pokemon = EKANS,11
+#-------------------------------
+[CAMPER,Jeff]
+LoseText = A very good battle, indeed!
+Pokemon = SPEAROW,16
+Pokemon = SENTRET,16
+#-------------------------------
+[CAMPER,Jeff,1]
+LoseText = You beat me again!
+Pokemon = FEAROW,29
+Pokemon = FURRET,29
+#-------------------------------
+[PICNICKER,Susie]
+LoseText = Defeated! Oh my!
+Pokemon = MEOWTH,18
+#-------------------------------
+[PICNICKER,Susie,1]
+LoseText = Defeated! Oh my!
+Pokemon = PERSIAN,32
+#-------------------------------
+[HIKER,Ford]
+LoseText = You're too good for me!
+Pokemon = MACHOP,19
+#-------------------------------
+[FISHERMAN,Andrew]
+LoseText = Washed out!
+Pokemon = MAGIKARP,14
+Pokemon = MAGIKARP,18
+#-------------------------------
+[BEAUTY,Bridget]
+LoseText = My Skitty!
+Pokemon = SKITTY,18
+#-------------------------------
+[LASS,Crissy]
+LoseText = You didn't have to win so convincingly!
+Pokemon = PLUSLE,17
+Pokemon = MINUN,17
+#-------------------------------
+[COOLCOUPLE,Alice & Bob]
+LoseText = Our teamwork failed!
+Pokemon = TURTWIG,19
+Pokemon = CHIMCHAR,19
+#-------------------------------
+[POKEMONTRAINER_May,May]
+LoseText = ...
+Pokemon = COMBUSKEN,19
+#-------------------------------
+[SWIMMER2_F,Ariel]
+LoseText = Washed out!
+Pokemon = STARYU,15
+Pokemon = GOLDEEN,11
+#-------------------------------
+[RIVAL1,Blue]
+LoseText = Not too shabby.
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = BULBASAUR,18
+#-------------------------------
+[RIVAL1,Blue,1]
+LoseText = Not too shabby.
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = CHARMANDER,18
+#-------------------------------
+[RIVAL1,Blue,2]
+LoseText = Not too shabby.
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = SQUIRTLE,18
+#-------------------------------
+[RIVAL1,Dad]
+LoseText = Nice work son.
+Pokemon = CORVIKNIGHT,12
+Pokemon = ZIGZAGOON,12
+Pokemon = TURTWIG,14
+#-------------------------------
+[RIVAL1,Dad,1]
+LoseText = Nice work son.
+Pokemon = CORVIKNIGHT,12
+Pokemon = ZIGZAGOON,12
+Pokemon = TORCHIC,14
+#-------------------------------
+[RIVAL1,Dad,2]
+LoseText = Nice work son.
+Pokemon = CORVIKNIGHT,12
+Pokemon = ZIGZAGOON,12
+Pokemon = SQUIRTLE,14
+#-------------------------------
+[CHAMPION,Blue]
+LoseText = A good battle indeed!
+Pokemon = VENUSAUR,63
+    Item = SITRUSBERRY
+Pokemon = CHARIZARD,63
+    Item = SITRUSBERRY
+Pokemon = BLASTOISE,63
+    Item = SITRUSBERRY
+#-------------------------------
+[GRASSKID,Tom]
+LoseText = Awe, i'll beat you next time!
+Pokemon = GLOOM,20
+#-------------------------------
+[GRASSGUY,Dereck]
+LoseText = Hmph, fine take this.
+Pokemon = NUZLEAF,20
+#-------------------------------
+[GRASSOFFICER,Paul]
+LoseText = You have no chance against our leader!
+Pokemon = BRELOOM,20
+#-------------------------------
+[GRASSGIRL,Scarlet,2]
+LoseText = Wow, you're better than I thought.
+Pokemon = GROTLE,20
+Pokemon = SERVINE,20
+#-------------------------------
+[LEADER_Erica,Erica]
+LoseText = You're way stronger than I was told!
+Pokemon = GROVYLE,20
+    Item = SITRUSBERRY
+Pokemon = ROSERADE,22
+    Item = BLACKSLUDGE
+Pokemon = AMOONGUSS,22
+    Item = BLACKSLUDGE
+Pokemon = SHIFTRY,24
+    Item = SITRUSBERRY
+#-------------------------------
+[GRASSLADY,Aurora]
+LoseText = Next time you wont be so lucky!
+Pokemon = WEEPINBELL,20
+Pokemon = EXEGGUTOR,20
+#-------------------------------
+[GRASSLADY,Scarlet]
+LoseText = ...
+Pokemon = GROTLE,20
+Pokemon = SERVINE,20
+#-------------------------------
+[BUGCATCHER,Dan]
+LoseText = ...
+Pokemon = BAYLEEF,20
